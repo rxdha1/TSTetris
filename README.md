@@ -1,8 +1,8 @@
-# Tetris
+# TS Tetris
 
-The world famous Tetris game with pure JS, HTML &amp; CSS.
+The world famous TS Squad returns with an exciting classic, A Tetris game with pure JS, HTML &amp; CSS!
 
-🕹️ https://larprad.github.io/tetris/
+🕹️ https://rxdha1.github.io/tstetris/
 
 ## Context
 
